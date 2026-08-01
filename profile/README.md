@@ -4,11 +4,11 @@
   <img src="https://raw.githubusercontent.com/testified/.github/main/assets/testified-banner.png" alt="Testified Banner" width="100%">
 </div> -->
 
-## 🚀 Welcome to Testified
+##  Welcome to Testified
 
 Testified is a vibrant community dedicated to advancing the practices of software testing, quality assurance, and DevOps. We bring together professionals, enthusiasts, and learners who are passionate about building reliable, scalable, and high-quality software systems.
 
-### 🎯 Quick Navigation
+###  Quick Navigation
 
 | Category | Description | Link |
 |----------|-------------|------|
@@ -17,17 +17,17 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 | Community | Join our growing community | [Get Involved →](https://github.com/testified/.github/blob/main/profile/community-links.md) |
 | Website | Visit our official website | [Visit →](https://testified.tcubed.group/) |
 
-### 🌟 What We Offer
+###  What We Offer
 
 | Offering | Description |
 |----------|-------------|
-| 📚 Knowledge Sharing | Expert insights and best practices |
-| 🤝 Networking | Connect with industry professionals |
-| 💡 Best Practices | Industry-standard methodologies |
-| 🔧 Tools & Resources | Curated testing and DevOps tools |
-| 👥 Community Support | Active community assistance |
+|  Knowledge Sharing | Expert insights and best practices |
+|  Networking | Connect with industry professionals |
+|  Best Practices | Industry-standard methodologies |
+|  Tools & Resources | Curated testing and DevOps tools |
+|  Community Support | Active community assistance |
 
-### 🔥 Featured Topics
+###  Featured Topics
 
 | Area | Latest Trend |
 |------|--------------|
@@ -38,7 +38,7 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 
 [View all trending topics →](https://github.com/testified/.github/blob/main/profile/trending-topics.md)
 
-### 🚀 Our Services
+###  Our Services
 
 | Service | Description | Link |
 |---------|-------------|------|
@@ -47,7 +47,7 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 | Automation | Process automation solutions for testing and deployment | [Learn More →](https://testified.tcubed.group/services/automation) |
 | AI Research | AI-powered testing and predictive analytics | [Learn More →](https://testified.tcubed.group/services/ai-research) |
 
-### 🤝 Community & Resources
+###  Community & Resources
 
 | Category | Description | Access |
 |----------|-------------|--------|
@@ -60,7 +60,7 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 
 [Explore all community resources →](https://github.com/testified/.github/blob/main/profile/community-links.md)
 
-### 📰 Latest Posts
+###  Latest Posts
 
 
 <!-- TESTIFIED-POST-LIST:START -->
@@ -73,7 +73,7 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 <!-- TESTIFIED-POST-LIST:END -->
 ---
 
-### 📬 Contact Us
+###  Contact Us
 
 | Method | Details |
 |--------|---------|

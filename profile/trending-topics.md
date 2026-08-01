@@ -2,15 +2,15 @@
 
 | Topic | Impact | Current Trend |
 |-------|--------|---------------|
-| Shift-Left Testing | Earlier defect detection | ⬆️ Rising |
-| AI in Testing | Smarter test generation and maintenance | ⬆️ Rising |
-| Test Data Management | Improved test coverage and reliability | ➡️ Stable |
-| Infrastructure as Code | Consistent environment management | ⬆️ Rising |
-| Cloud-Native Testing | Distributed systems validation | ⬆️ Rising |
-| Security Automation | Continuous security validation | ⬆️ Rising |
-| Performance Engineering | System optimization and reliability | ⬆️ Rising |
-| Chaos Engineering | System resilience testing | ➡️ Stable |
-| Site Reliability Engineering | System reliability and scalability | ⬆️ Rising |
+| Shift-Left Testing | Earlier defect detection |  Rising |
+| AI in Testing | Smarter test generation and maintenance |  Rising |
+| Test Data Management | Improved test coverage and reliability |  Stable |
+| Infrastructure as Code | Consistent environment management |  Rising |
+| Cloud-Native Testing | Distributed systems validation |  Rising |
+| Security Automation | Continuous security validation |  Rising |
+| Performance Engineering | System optimization and reliability |  Rising |
+| Chaos Engineering | System resilience testing |  Stable |
+| Site Reliability Engineering | System reliability and scalability |  Rising |
 
 ## Key Trends Deep Dive
 
