@@ -64,12 +64,16 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 
 
 <!-- TESTIFIED-POST-LIST:START -->
-- [Building Effective Automated Testing Strategies](https://testified.tcubed.group/blog/automated-testing-strategies)
-- [Modern DevOps and SRE Practices for Scalable Systems](https://testified.tcubed.group/blog/modern-devops-practices)
+- [GitHub Agent Skills: Automating QA and DevOps Workflows with AI](https://testified.tcubed.group/blog/github-agent-skills-for-qa-devops)
+- [The Ultimate QA Checklist 2025: Complete Quality Assurance Guide](https://testified.tcubed.group/blog/qa-checklist-2025)
+- [AI Testing Myths Debunked: Separating Fact from Fiction in 2025](https://testified.tcubed.group/blog/ai-testing-myths-debunked-2025)
+- [AI Testing Tools Comparison 2025: Complete Buyer&#39;s Guide](https://testified.tcubed.group/blog/ai-testing-tools-comparison-2025)
+- [How to Implement AI-Powered Testing: A Complete Guide for 2025](https://testified.tcubed.group/blog/how-to-implement-ai-testing-2025)
+- [The Future of Quality Engineering: Top Trends Shaping QA and DevOps in 2025](https://testified.tcubed.group/blog/qa-devops-trends-2025)
+- [Recent Advancements in AI Research and Applications](https://testified.tcubed.group/blog/ai-research-advancements)
 - [Transforming Business Efficiency Through Intelligent Automation](https://testified.tcubed.group/blog/automation-workflow-efficiency)
-- [Recent Advancements in AI Research for Business Applications](https://testified.tcubed.group/blog/ai-research-advancements)
-- [Introduction to Modern Quality Assurance Practices](https://testified.tcubed.group/blog/introduction-to-quality-assurance)
-- [DevOps for Startups: Building a Scalable Foundation](https://testified.tcubed.group/blog/devops-for-startups)
+- [Modern DevOps and SRE Practices for Scalable Systems](https://testified.tcubed.group/blog/modern-devops-practices)
+- [Effective Automated Testing Strategies for Modern Applications](https://testified.tcubed.group/blog/automated-testing-strategies)
 <!-- TESTIFIED-POST-LIST:END -->
 ---
 
